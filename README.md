@@ -7,9 +7,10 @@
 | creating001.github.io | 个人博客    |
 
 ## 项目仓库
-| Repo Name    | Description   |
-| ------------ | ------------- |
-| SNL-Compiler | SNL语言编译器 |
+| Repo Name    | Description    |
+| ------------ | -------------- |
+| Connect6     | 六子棋博弈程序 |
+| SNL-Compiler | SNL语言编译器  |
 
 ## 学习仓库
 | Repo Name     | Description    |
