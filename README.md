@@ -6,6 +6,11 @@
 | creating              | 个人简历    |
 | creating001.github.io | 个人博客    |
 
+## 项目仓库
+| Repo Name    | Description   |
+| ------------ | ------------- |
+| SNL-Compiler | SNL语言编译器 |
+
 ## 学习仓库
 | Repo Name     | Description    |
 | ------------- | -------------- |
@@ -19,8 +24,3 @@
 | Paper-Reading | 论文阅读       |
 | Kaggle        | Kaggle竞赛     |
 | ICPC-Wiki     | 算法知识       |
-
-## 项目仓库
-| Repo Name    | Description   |
-| ------------ | ------------- |
-| SNL-Compiler | SNL语言编译器 |
